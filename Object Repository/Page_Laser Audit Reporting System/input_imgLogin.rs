@@ -3,15 +3,15 @@
    <description></description>
    <name>input_imgLogin</name>
    <tag></tag>
-   <elementGuidId>32cd513e-3b1f-47a4-859e-dd19ce31646a</elementGuidId>
+   <elementGuidId>10a48d4a-11da-4b53-a59c-36bd93897e0f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#imgLogin</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//*[@id = 'imgLogin']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#imgLogin</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dd337533-34ff-4c4b-a1dc-bf72887ef218</webElementGuid>
+      <webElementGuid>26a0eac3-db8b-4e7d-8e91-206e70bc449f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>dd220810-5069-44c6-a20f-f8949354b758</webElementGuid>
+      <webElementGuid>323d1572-5724-41e1-85c2-7470bca105e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>imgLogin</value>
-      <webElementGuid>c27ff9e5-2ab1-4beb-be84-e482d70d84d8</webElementGuid>
+      <webElementGuid>5e59a267-7d7f-4f51-b3d8-82bc65c9335a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>imgLogin</value>
-      <webElementGuid>90eb4b03-14ba-428f-ad21-1b88b1a6dc6e</webElementGuid>
+      <webElementGuid>d8dc082b-231d-4316-817c-5bea6535aaf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>src</name>
       <type>Main</type>
       <value>images/btn_login.jpg</value>
-      <webElementGuid>5ad55c00-6355-4b77-849b-0d931bf81f2d</webElementGuid>
+      <webElementGuid>3def7b57-6c7c-49df-8e74-e60c95cc565d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return Validate();</value>
-      <webElementGuid>f711bbb5-4896-481f-9774-90804a8e9de3</webElementGuid>
+      <webElementGuid>54ff2e91-87ed-4ecb-a2f0-34d7159af6f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-a087cc1fd77f9eea4157cd5d2c0736c2</value>
-      <webElementGuid>c720af10-8cba-4fd4-97eb-318fee85fe8e</webElementGuid>
+      <webElementGuid>7f379b3f-8fe1-4e32-a534-a0ad44d88a0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'imgLogin']</value>
-      <webElementGuid>4224b244-ce6c-4693-b2aa-6e650c355608</webElementGuid>
+      <webElementGuid>400ad145-4fd0-42ae-8147-36550b317a57</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'imgLogin']</value>
-      <webElementGuid>9e158aae-f682-4670-bac6-2160c0411c6a</webElementGuid>
+      <webElementGuid>3b8614d5-f1e8-45fe-a4e9-fcb1609897d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @name = 'imgLogin' and @id = 'imgLogin' and @src = 'images/btn_login.jpg']</value>
-      <webElementGuid>bdb1ffe8-aade-4f63-bc87-8f407d9dbd0b</webElementGuid>
+      <webElementGuid>915720d8-4b3f-471d-8691-95ce96ee80be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
